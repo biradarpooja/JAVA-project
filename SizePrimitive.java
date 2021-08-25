@@ -1,3 +1,9 @@
+//run:
+Size of int: 4 bytes.
+Size of char: 2 bytes.
+Size of float: 4 bytes.
+Size of double: 8 bytes.
+BUILD SUCCESSFUL (total time: 0 seconds)
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
