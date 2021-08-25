@@ -1,3 +1,43 @@
+//output
+Enter first number:45
+Enter second number:5
+Enter 1 for addition
+Enter 2 for subtraction
+Enter 3 for multiplication
+Enter 4 for division
+Enter 5 to Exit
+1
+Result:50
+Enter 1 for addition
+Enter 2 for subtraction
+Enter 3 for multiplication
+Enter 4 for division
+Enter 5 to Exit
+2
+Result:40
+Enter 1 for addition
+Enter 2 for subtraction
+Enter 3 for multiplication
+Enter 4 for division
+Enter 5 to Exit
+3
+Result:225
+Enter 1 for addition
+Enter 2 for subtraction
+Enter 3 for multiplication
+Enter 4 for division
+Enter 5 to Exit
+4
+Result:9.0
+Enter 1 for addition
+Enter 2 for subtraction
+Enter 3 for multiplication
+Enter 4 for division
+Enter 5 to Exit
+5
+BUILD SUCCESSFUL (total time: 42 seconds)
+
+
 //java program to ddition,subtraction,multiplication and division two number
 import java.util.Scanner;
 
